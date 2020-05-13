@@ -35,6 +35,8 @@ Submit a pull request for both the html-branch and the text-branch to be merged 
 **Bonus Goals:
 * The instructions for the bonus functionality are another branch of this repo.  Find those instructions
 
+I am trying.
+
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
 4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
